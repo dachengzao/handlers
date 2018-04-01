@@ -1,7 +1,10 @@
 ## handlers 
 基于gorilla修改，不可用于生产环境。
 
+## install
 
+	go get github.com/dachengzao/handlers
+	
 Package handlers is a collection of handlers (aka "HTTP middleware") for use
 with Go's `net/http` package (or any framework supporting `http.Handler`), including:
 
